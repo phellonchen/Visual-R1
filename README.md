@@ -13,7 +13,7 @@ At this stage, we focus on enhancing Visual R1's multimodal ability while mainta
 ## Stage3: Multimodal SFT
 At this stage, we utilize multimodal reasoning data to enable Visual R1 to acquire multimodal reasoning ability.
 
-## Stage3: Multimodal RL
+## Stage4: Multimodal RL
 At this stage, we further enhance Visual R1's multimodal reasoning ability. 
 
 Thus, we have transfer reasoning ability from R1 to Visual R1 that can reason with both text and images. 
