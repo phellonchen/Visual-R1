@@ -17,7 +17,7 @@ At this stage, we utilize multimodal reasoning data to enable Visual R1 to acqui
 ### Stage4: Multimodal RL
 At this stage, we further enhance Visual R1's multimodal reasoning ability. 
 
-Thus, we have transfer reasoning ability from R1 to Visual R1 that can reason with both text and images. 
+Thus, we have transferd reasoning ability from R1 to Visual R1 that can reason with both text and images. 
 
 ## Performance
 TODO: Report the performance of our Visual R1.
