@@ -22,4 +22,4 @@ Thus, we have transferred reasoning ability from R1 to Visual R1 that can reason
 ## Performance
 TODO: Report the performance of our Visual R1.
 
-We leverage DeepSeek-R1-Distill-Qwen-1.5B \ DeepSeek-R1-Distill-Qwen-7B \ DeepSeek-R1-Distill-Qwen-32B as LLM backbone.
+We leverage DeepSeek-R1-Distill-Qwen-1.5B \ DeepSeek-R1-Distill-Qwen-7B \ DeepSeek-R1-Distill-Qwen-32B as LLM backbones.
