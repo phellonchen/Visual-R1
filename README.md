@@ -2,7 +2,7 @@
 
 DeepSeek-R1 demonstrates outstanding reasoning abilities across various problems except visual-related problems. Although there are some efforts to implement multimodal R1, they all focus on enhancing the reasoning ability of VL models. 
 
-We build this project to create a model that can transfer reasoning Ability from LLMs (R1) to MLLMs (Visual R1).
+We build this project to create a model that can Transfer Reasoning Ability from LLMs (R1) to MLLMs (Visual R1).
 
 ## Training
 ### Stage1: Multimodal Pretraining
